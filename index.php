@@ -7,7 +7,7 @@
     <title>TechLunch</title>
     <style>
         h1 {
-            color: #FF0066;
+            color: red;
         }
     </style>
 </head>
