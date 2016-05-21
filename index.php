@@ -6,9 +6,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>TechLunch</title>
     <style>
-	    h1 {
-	    	color: #FF0066;
-	    }
+        h1 {
+            color: #FF0066;
+        }
     </style>
 </head>
 <body>
